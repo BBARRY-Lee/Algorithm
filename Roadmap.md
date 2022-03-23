@@ -9,7 +9,7 @@
 - 👉🏻 SQLD 기출문제집 풀이 및 오답노트 작성
 - 👉🏻 2022.03.12. (토) SQLD 시험 응시 完
 
-# Part 2. Study abouy Phython, R, kaggle, , 데이콘, Github...
+# Part 2. Study about Phython, R, kaggle, 데이콘, Github...
 - 👉🏻 kaggle notebook 필사 (Titanic)
 - 👉🏻 인프런 강의 알아보기
 - 👉🏻 내일채움배움카드 알아보기
