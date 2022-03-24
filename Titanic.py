@@ -14,7 +14,7 @@
 #      큰 데이터의 빠른 Indexing, Slicing, Sorting 기능
 #      두 데이터 간 Join(행,열 방향) 기능
 #      데이터의 피봇팅 및 그룹핑, 통계 및 시각화 기능
-#      외부 데이터를 입력 받아 Pandas 자료구조로 저장 및 출력 (CSV, 구분자가 있는 txt, 엑셀, SQL database, XML 등
+#      외부 데이터를 입력 받아 Pandas 자료구조로 저장 및 출력 (CSV, 구분자가 있는 txt, 엑셀, SQL database, XML 등)
 
 # 2️⃣ Explain about rawdata file. 👩🏻‍💻
 # 1. Train.csv
