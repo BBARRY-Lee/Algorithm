@@ -10,7 +10,7 @@
 
 # Part 2. Studying about kaggle for experience about data analyst!
 - 👉🏻 kaggle notebook 필사
-     1️⃣ Titanic : https://github.com/BBARRY-Lee/BBARRY-Lee/blob/0db45b23c060cd5e21f7297ca0e356caacd0fb61/bbarry-s-titanic.ipynb)
+-    1️⃣ Titanic : https://github.com/BBARRY-Lee/BBARRY-Lee/blob/0db45b23c060cd5e21f7297ca0e356caacd0fb61/bbarry-s-titanic.ipynb)
 
 
 # Part 3. 나에 대한 고찰
