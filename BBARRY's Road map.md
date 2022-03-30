@@ -11,7 +11,7 @@
 # Part 2. Studying about kaggle for experience about data analyst!
 - 👉🏻 kaggle notebook 필사
 -    1️⃣ Titanic : https://github.com/BBARRY-Lee/BBARRY-Lee/blob/0db45b23c060cd5e21f7297ca0e356caacd0fb61/bbarry-s-titanic.ipynb)
-
+-       단순히 해석 및 필사였기 때문에, 왜 여기서 이런 기법을 사용했고 어떤 의미가 있는지 분석이 되지 않았으므로, 추가적인 공부가 필요
 
 # Part 3. 나에 대한 고찰
 - 👉🏻 최종목표 : 공공에 도움이 되는 데이터 분석 및 시각화 자료 통한 사회문제 개선 (Ex : 인터넷 상 세대갈등, 혐오조장 언론플레이 사실을 공론화할 근거 데이터 등)
