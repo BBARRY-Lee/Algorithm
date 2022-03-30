@@ -1,17 +1,16 @@
 - 👋 Hi, I'm **bbarry Lee**  
 - 👀 I’m currently learning **SQL** and I really want to study about **various languages**!
-- ✌ I'll write about **studying** SQL and etc at **github**.
+- ✌ I'll write about **studying** things at **github**.
 
 # Part 1. Studying for get license SQLD.
 - 👉🏻 데이터 모델링의 이해 / 데이터 모델의 성능 / SQL 최적화와 기본원리 요약정리
 ([SQLD 요약정리_written by BAARRY Lee.pdf](https://github.com/BBARRY-Lee/BBARRY-Lee/files/8330460/SQLD._written.by.BAARRY.Lee.pdf))
-
 - 👉🏻 SQLD 기출문제집 풀이 및 오답노트 작성
 - 👉🏻 2022.03.12. (sat) SQLD 시험 응시 完
 
-# Part 2. Study about Phython, kaggle, 데이콘, Github...
+# Part 2. Studying about kaggle for experience about data analyst!
 - 👉🏻 kaggle notebook 필사
-- (Titanic ✔️ : https://github.com/BBARRY-Lee/BBARRY-Lee/blob/0db45b23c060cd5e21f7297ca0e356caacd0fb61/bbarry-s-titanic.ipynb)
+     1️⃣ Titanic : https://github.com/BBARRY-Lee/BBARRY-Lee/blob/0db45b23c060cd5e21f7297ca0e356caacd0fb61/bbarry-s-titanic.ipynb)
 
 
 # Part 3. 나에 대한 고찰
