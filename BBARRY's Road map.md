@@ -192,3 +192,6 @@
       - print(sorted(array, key=lamda x: x[1]) 
     - 여러 개의 리스트에 적용
       - result = map(lamda a, b: a_b, list1, list2)
+
+![image](https://user-images.githubusercontent.com/99329555/172653605-03952a88-57b6-417a-b37e-553c25bc07c9.png)
+
