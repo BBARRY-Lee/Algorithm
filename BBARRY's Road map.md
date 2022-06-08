@@ -186,4 +186,5 @@
       - for i in range():
       - func()
       - print(a) -> 10
-    - global 키워드
+    - 람다표현식
+    - 
