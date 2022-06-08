@@ -187,4 +187,8 @@
       - func()
       - print(a) -> 10
     - 람다표현식
-    - 
+    - 특정 기능을 수행하는 함수를 한줄에 작성할 수 있음 (한 번만 사용할 경우 주로 사용)
+      - print((lamda a, b: a+b)(3, 7)) -> 10
+      - print(sorted(array, key=lamda x: x[1]) 
+    - 여러 개의 리스트에 적용
+      - result = map(lamda a, b: a_b, list1, list2)
