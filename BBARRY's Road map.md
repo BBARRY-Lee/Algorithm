@@ -194,4 +194,10 @@
       - result = map(lamda a, b: a_b, list1, list2)
 
 ![image](https://user-images.githubusercontent.com/99329555/172653605-03952a88-57b6-417a-b37e-553c25bc07c9.png)
+![image](https://user-images.githubusercontent.com/99329555/172654200-7f6beda2-b030-4641-b658-5627288fd495.png)
+![image](https://user-images.githubusercontent.com/99329555/172654360-f4d0abc1-bf60-41ab-a9a6-78108be80dfe.png)
+![image](https://user-images.githubusercontent.com/99329555/172654406-a7d596b0-e8c6-4806-a928-ea5e86d12884.png)
+![image](https://user-images.githubusercontent.com/99329555/172654460-7f9a1edf-f77a-4bfd-9739-11c065e447a7.png)
+
+
 
