@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/leejy1373/)
+
 - 👋 Hi, I'm **bbarry Lee**  
 - 👀 I’m currently learning **SQL** and I really want to study about **various languages**!
 - ✌ I'll write about **studying** things at **github**.
