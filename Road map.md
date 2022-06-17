@@ -1,18 +1,12 @@
 
 - 👋 Hi, I'm **bbarry Lee**  
-- 👀 I’m currently learning **SQL** and I really want to study about **various languages**!
-- ✌ I'll write about **studying** things at **github**.
 
-# Part 1. Studying about kaggle for experience about data analyst!
-- 👉🏻 kaggle notebook 필사
--    1️⃣ Titanic : https://github.com/BBARRY-Lee/BBARRY-Lee/blob/0db45b23c060cd5e21f7297ca0e356caacd0fb61/bbarry-s-titanic.ipynb)
--       단순히 해석 및 필사였기 때문에, 왜 여기서 이런 기법을 사용했고 어떤 의미가 있는지 분석이 되지 않았으므로, 추가적인 공부가 필요
-- 👉🏻 데이터분석 기법에 대한 공부가 필요함 (내용정리 할 것)
 
-# Part 2. 코딩테스트
-- 👉🏻 백준 단계별 문제풀의 (1일 1단계)
-- 6/3 : 1단계 : https://github.com/BBARRY-Lee/BBARRY-Lee/blob/362790d03be1c092ae6577bfd8dd0849f1d741d7/%E1%84%8F%E1%85%A9%E1%84%90%E1%85%A6_%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB_1%E1%84%83%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A8_%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%89%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB.ipynb
-- 
+# Part 1. 알고리즘 공부
+- 👉🏻 백준 단계별 문제풀이 1~10 단계
+- 👉🏻 백준 유형별 문제풀이 : 그리디, 스택/큐, 이분 탐색, DP(동적 계획법), DFS/BFS (쉬운 문제부터) 풀이
+- 👉🏻 프로그래머스 lv 1~2 풀이
+
 # Part 3. 나에 대한 고찰
 - 👉🏻 최종목표 : 공공에 도움이 되는 데이터 분석 및 시각화 자료 통한 사회문제 개선 (Ex : 인터넷 상 세대갈등, 혐오조장 언론플레이 사실을 공론화할 근거 데이터 등)
 - 👉🏻 나는 무엇을 해야하는가, 데이터를 어떻게 관리해야 하는가?
